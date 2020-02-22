@@ -3,6 +3,12 @@ HEARTHSTONE PACK OPENING SIMULATOR
 
 By Matthew  Thibodeau 2/22/2020
 
+OVERVIEW
+--------
+This program allows you to simulate opening a Hearthstone Pack
+and receive 5 cards based on actual Blizzard-provided odds.
+You have the option to continue opening indefinitely, as well
+as check the statistics of the cards you have already opened.
 
 
 HOW TO USE
@@ -57,3 +63,7 @@ Curse of Naxxramas, etc.
 
 Down the road once I start experimenting with GUI's I can 
 possibly add in sound effects which would be AWESOME
+
+I would like to include the cost of cards so that you can look
+at that in the Statistics as well. This would require
+editing of the .txt files however.
