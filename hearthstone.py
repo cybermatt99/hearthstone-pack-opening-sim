@@ -1,5 +1,7 @@
 # Hearthstone Card Pack Opening Simulator
-# Create 5 card objects
+# Created by Matthew Thibodeau - University of South Florida - 2/22/2020
+
+# First Create 5 card objects
 # Assign each card a rarity based on official Blizzard Numbers
 # 1 rare or better in every pack, epic is 1 in 5 packs, legendary is 1 in 20 packs
 # For each of the cards, depending on rarity, randomly choose a card from that database
@@ -7,17 +9,20 @@
 # Display information back to user
 # Repeat if player clicks "draw again"
 
+#Random library will be needed for this project
 import random
+
+#Set up lists to contain all of the drawn cards
 commons=[]
 rares=[]
 epics=[]
 legendaries=[]
 
+#The Card class defines each card based on its name and rarity
 class Card:
-	def __init__(self, name, rarity, pos):
+	def __init__(self, name, rarity):
 		self.name = name
 		self.rarity = rarity
-		self.pos = pos
 
 	def setName(self, newName):
 		self.name = newName
@@ -28,6 +33,8 @@ class Card:
 	def printName(self):
 		return print(str(self.name))
 
+#The setRarity function uses an algorithm to decide each cards rarity
+#Odds per card are 1% Legendary, 4% epic, and 20% rare
 	def setRarity(self):
 		n = random.randint(1,100)
 		if (n == 1):
@@ -49,6 +56,7 @@ class Card:
 	def getRarity(self):
 		return self.rarity
 
+#The force rare function is used later on to guarantee one rare per pack
 	def forceRare(self):
 		self.rarity = "rare"
 
@@ -56,6 +64,7 @@ class Card:
 		print(self.name, self.rarity, sep=" - ")
 
 
+#We want to make sure the user has the option to check their statistics
 def main():
 
 	check = input("Enter 'a' to open a pack: ")
@@ -75,8 +84,10 @@ def main():
 				continue
 
 
-
 def openPack():
+
+#All of the card names are taken from .txt files
+#We will also need the length of the text files for random num generation
 	fileCommon = open("common.txt", "r")
 	common = fileCommon.readlines() 
 	numCommon = len(common)
@@ -94,12 +105,14 @@ def openPack():
 	numLegendary = len(legendary)
 	
 
+#Create a list to store the new cards in and generate their rarity
 	newCards = []
 	for x in range(0,5):
-		x = Card("","","")
+		x = Card("","")
 		Card.setRarity(x)
 		newCards.append(x)
 
+#This algorithm guarantees a rare in the event that 4 commons were drawn in a row
 	if (Card.getRarity(newCards[0]) == "common"):
 		if (Card.getRarity(newCards[1]) == "common"):
 			if (Card.getRarity(newCards[2]) == "common"):
@@ -107,6 +120,7 @@ def openPack():
 					Card.forceRare(newCards[4])
 
 
+#Check the rarity of each card, assign it a random name from .txt file based on rarity
 	for y in newCards:
 		rarity = Card.getRarity(y)
 		if (rarity == "common"):
@@ -135,6 +149,7 @@ def openPack():
 
 		Card.printCard(y)
 
+#Function to display all the statistics about your run so far
 def displayStats():
 	totalCards = len(commons) + len(rares) + len(epics) + len(legendaries)
 	print('\nTotal Cards Opened: ', totalCards)
