@@ -1,0 +1,1339 @@
+Name
+Murloc Tinyfin
+Snowflipper Penguin
+Target Dummy
+Wisp
+Abusive Sergeant
+Angry Chicken
+Arcane Anomaly
+Archerus Veteran
+Argent Squire
+Bloodsail Corsair
+Clockwork Gnome
+Cogmaster
+Deadscale Knight
+Dragon Egg
+Elven Archer
+Emerald Hive Queen
+Emerald Reaver
+Fire Fly
+Gadgetzan Jouster
+Glacial Shard
+Goldshire Footman
+Grimscale Oracle
+Hungry Crab
+Injured Kvaldir
+Leper Gnome
+Lightwarden
+Lowly Squire
+Mistress of Mixtures
+Murloc Raider
+Murloc Tidecaller
+Patches the Pirate
+Runic Egg
+Secretkeeper
+Shieldbearer
+Shifter Zerus
+Sir Finley Mrrgglton
+Small-time Buccaneer
+Southsea Deckhand
+Stonetusk Boar
+Tentacle of N'Zoth
+Tournament Attendee
+Undertaker
+Voodoo Doctor
+Weasel Tunneler
+Worgen Infiltrator
+Wretched Tiller
+Young Dragonhawk
+Young Priestess
+Zealous Initiate
+Zombie Chow
+Acidic Swamp Ooze
+Amani Berserker
+Ancient Watcher
+Annoy-o-Tron
+Argent Watchman
+Beckoner of Evil
+Bilefin Tidehunter
+Bloodfen Raptor
+Bloodmage Thalnos
+Bloodsail Raider
+Blowgill Sniper
+Bluegill Warrior
+Boneguard Lieutenant
+Captain's Parrot
+Crazed Alchemist
+Dire Wolf Alpha
+Dirty Rat
+Doomsayer
+Duskboar
+Echoing Ooze
+Explosive Sheep
+Faerie Dragon
+Fallen Sun Cleric
+Flame Juggler
+Friendly Bartender
+Frostwolf Grunt
+Gadgetzan Socialite
+Garrison Commander
+Gilblin Stalker
+Golakka Crawler
+Haunted Creeper
+Huge Toad
+Jeweled Scarab
+Knife Juggler
+Kobold Geomancer
+Lance Carrier
+Loot Hoarder
+Lorewalker Cho
+Mad Bomber
+Mad Scientist
+Mana Addict
+Mana Wraith
+Master Swordsmith
+Mechwarper
+Micro Machine
+Millhouse Manastorm
+Murloc Tidehunter
+Nat Pagle
+Nat, the Darkfisher
+Nerub'ar Weblord
+Nerubian Egg
+Netherspite Historian
+Novice Engineer
+Pint-Sized Summoner
+Pompous Thespian
+Prince Keleseth
+Puddlestomper
+Ravasaur Runt
+Recombobulator
+River Crocolisk
+Rockpool Hunter
+Ship's Cannon
+Stonesplinter Trogg
+Stubborn Gastropod
+Sunfury Protector
+Tainted Zealot
+Tuskarr Fisherman
+Twilight Geomancer
+Twisted Worgen
+Unstable Ghoul
+Volatile Elemental
+Wild Pyromancer
+Youthful Brewmaster
+Acolyte of Pain
+Alarm-o-Bot
+Am'gam Rager
+Arcane Golem
+Argent Horserider
+Auctionmaster Beardo
+Backstreet Leper
+Blackwing Technician
+Blood Knight
+Blubber Baron
+Brann Bronzebeard
+Coldlight Oracle
+Coldlight Seer
+Coliseum Manager
+Dalaran Mage
+Dancing Swords
+Deathlord
+Deathspeaker
+Demolisher
+Devilsaur Egg
+Disciple of C'Thun
+Dragonhawk Rider
+Drakkari Enchanter
+Earthen Ring Farseer
+Eggnapper
+Emperor Cobra
+Eydis Darkbane
+Fel Orc Soulfiend
+Fencing Coach
+Fjola Lightbane
+Flesheating Ghoul
+Flying Machine
+Giant Wasp
+Gluttonous Ooze
+Gnomeregan Infantry
+Gnomish Experimenter
+Goblin Sapper
+Happy Ghoul
+Harvest Golem
+Hired Gun
+Hobgoblin
+Humongous Razorleaf
+Hyldnir Frostrider
+Ice Rager
+Igneous Elemental
+Illuminator
+Imp Master
+Injured Blademaster
+Ironbeak Owl
+Ironforge Rifleman
+Ironfur Grizzly
+Jungle Panther
+King Mukla
+Light's Champion
+Lil' Exorcist
+Magma Rager
+Master of Ceremonies
+Mind Control Tech
+Mindbreaker
+Moroes
+Murloc Warleader
+Ogre Brute
+Pantry Spider
+Primalfin Lookout
+Prince Taldaram
+Pterrodax Hatchling
+Questing Adventurer
+Raging Worgen
+Raid Leader
+Razorfen Hunter
+Saboteur
+Scarlet Crusader
+Sergeant Sally
+Shade of Naxxramas
+Shallow Gravedigger
+Shattered Sun Cleric
+Silent Knight
+Silithid Swarmer
+Silver Hand Regent
+Silverback Patriarch
+Southsea Captain
+Spawn of N'Zoth
+Spider Tank
+Squirming Tentacle
+Stonehill Defender
+Stoneskin Gargoyle
+Street Trickster
+Tar Creeper
+Tauren Warrior
+Thrallmar Farseer
+Yhunder Lizard
+Tinkertown Technician
+Tinkmaster Overspark
+Toxic Sewer Ooze
+Twilight Elder
+Vicious Fledgling
+Violet Illusionist
+Vryghoul
+Wolfrider
+Zoobot
+Aberrant Berserker
+Ancient Brewmaster
+Ancient Mage
+Ancient Shade
+Arcane Nullifier X-21
+Arcanosmith
+Arfus
+Armored Warhorse
+Backroom Bouncer
+Barnes
+Baron Rivendare
+Blackwater Pirate
+Bright-Eyed Scout
+Burly Rockjaw Trogg
+C'Thun's Chosen
+Chillwind Yeti
+Corpsetaker
+Crowd Favorite
+Cult Master
+Cyclopian Horror
+Daring Reporter
+Dark Iron Dwarf
+Deathaxe Punisher
+Defender of Argus
+Dragonkin Sorcerer
+Dragonling Mechanic
+Dread Corsair
+Eater of Secrets
+Eerie Statue
+Elise Starseeker
+Enhance-o Mechano
+Evil Heckler
+Evolved Kobold
+Faceless Shambler
+Fire Plume Phoenix
+Frigid Snobold
+Gentle Megasaur
+Genzo, the Shark
+Gnomish Inventor
+Gorillabot A-3
+Gormok the Impaler
+Grave Shambler
+Grim Necromancer
+Hozen Healer
+Hungry Dragon
+Infested Tauren
+Jeeves
+Keening Banshee
+Kezan Mystic
+Kooky Chemist
+Lost Tallstrider
+Maiden of the Lake
+Meat Wagon
+Mechanical Yeti
+Midnight Drake
+Mini-Mage
+Mogu'shan Warden
+Naga Corsair
+Night Howler
+Oasis Snapjaw
+Ogre Magi
+Old Murk-Eye
+Phantom Freebooter
+Piloted Shredder
+Polluted Hoarder
+Prince Valanar
+Rattling Rascal
+Refreshment Vendor
+Saronite Chain Gang
+Sen'jin Shieldmasta
+Silvermoon Guardian
+Spellbreaker
+Spiritsinger Umbra
+Stegodon
+Stormwind Knight
+Tanaris Hogchopper
+The Vorax
+Ticking Abomination
+Tol'vir Stoneshaper
+Tomb Spider
+Tournament Medic
+Twilight Drake
+Twilight Guardian
+Twilight Summoner
+Violet Teacher
+Wailing Soul
+Wicked Skeleton
+Worgen Greaser
+Abomination
+Antique Healbot
+Anubisath Sentinel
+Avian Watcher
+Azure Drake
+Big Game Hunter
+Bittertide Hydra
+Blackwing Corruptor
+Blingtron 3000
+Bloodworm
+Bomb Lobber
+Bomb Squad
+Booty Bay Bodyguard
+Burgly Bully
+Captain Greenskin
+Carnivorous Cube
+Clockwork Knight
+Cobalt Scalebane
+Corpse Raiser
+Corrupted Healbot
+Crazed Worshipper
+Cult Apothecary
+Darkscale Healer
+Darkspeaker
+Djinni of Zephyrs
+Doppelgangster
+Elise the Trailblazer
+Elite Tauren Chieftain
+Faceless Manipulator
+Fel Reaver
+Fen Creeper
+Feugen
+Finja, the Flying Star
+Frostwolf Warlord
+Grim Patron
+Grook Fu Master
+Guild Recruiter
+Gurubashi Berserker
+Harrison Jones
+Hemet Nesingwary
+Junkbot
+Kvaldir Raider
+Leeroy Jenkins
+Loatheb
+Madder Bomber
+Menagerie Magician
+Mimiron's Head
+Mukla's Champion
+Naga Sea Witch
+Nesting Roc
+Nexus-Champion Saarad
+Nightblade
+Pit Fighter
+Prince Malchezaar
+Psych-o-Tron
+Recruiter
+Red Mana Wyrm
+Salty Dog
+Second-Rate Bruiser
+Servant of Kalimos
+Silver Hand Knight
+Skelemancer
+Sludge Belcher
+Spectral Knight
+Spiked Hogrider
+Spiteful Smith
+Stalagg
+Stampeding Kodo
+Stormpike Commando
+Stranglethorn Tiger
+Streetwise Investigator
+Summoning Stone
+Sunborne Val'kyr
+Tomb Lurker
+Validated Doomsayer
+Venomancer
+Venture Co. Mercenary
+Ancient of Blossoms
+Ancient Harbinger
+Archmage
+Argent Commander
+Big-Time Racketeer
+Bolf Ramshield
+Bone Drake
+Book Wyrm
+Boulderfist Ogre
+Cairne Bloodhoof
+Corrupted Seer
+Defias Cleaner
+Drakonid Crusher
+Emperor Thaurissan
+Fight Promoter
+Frost Elemental
+Frozen Crusher
+Furnacefire Colossus
+Gadgetzan Auctioneer
+Gazlowe
+Gelbin Mekkatorque
+Grand Crusader
+Hemet, Jungle Hunter
+Hogger
+Illidan Stormrage
+Justicar Trueheart
+Kodorider
+Leatherclad Hogleader
+Lord of the Arena
+Maexxna
+Madam Goya
+Master Jouster
+Moat Lurker
+Mogor the Ogre
+Mogor's Champion
+Mukla, Tyrant of the Vale
+Necrotic Geist
+Nerubian Prophet
+Nerubian Unraveler
+Piloted Sky Golem
+Priestess of Elune
+Reckless Rocketeer
+Reno Jackson
+Sabretooth Stalker
+Scaled Nightmare
+Sideshow Spelleater
+Skeram Cultist
+Skulking Geist
+Spellweaver
+Sunwalker
+Sylvanas Windrunner
+The Beast
+The Black Knight
+The Skeleton Knight
+Toshley
+Volcanic Drake
+Wind-up Burglebot
+Windfury Harpy
+Wobbling Runts
+Wrathion
+Baron Geddon
+Blazecaller
+Bog Creeper
+Bonemare
+Captured Jormungar
+Chillmaw
+Core Hound
+Dr. Boom
+Grotesque Dragonhawk
+Hogger, Doom of Elwynn
+Ravenholdt Assassin
+Rend Blackhand
+Sated Threshadon
+Skycap'n Kragg
+Stormwatcher
+Stormwind Champion
+The Curator
+Troggzor the Earthinator
+Twin Emperor Vek'lor
+Volcanosaur
+War Golem
+Charged Devilsaur
+Chromaggus
+Doomcaller
+Eldritch Horror
+Foe Reaper 4000
+Force-Tank MAX
+Fossilized Devilsaur
+Gruul
+Kel'Thuzad
+Marin the Fox
+Medivh, the Guardian
+Primordial Drake
+Ragnaros the Firelord
+Sneed's Old Shredder
+The Boogeymonster
+The Lich King
+Tortollan Primalist
+Alexstrasza
+Arch-Thief Rafaam
+Blood of the Ancient One
+Giant Mastodon
+Icehowl
+Majordomo Executus
+Malygos
+Mayor Noggenfogger
+Mekgineer Thermaplugg
+Nefarian
+North Sea Kraken
+Nozdormu
+Onyxia
+Ozruk
+Soggoth the Slitherer
+Ysera
+C'Thun
+Deathwing
+Deathwing, Dragonlord
+Faceless Behemoth
+Frost Giant
+N'Zoth, the Corruptor
+Sea Giant
+Ultrasaur
+Yogg-Saron, Hope's End
+Y'Shaarj, Rage Unbound
+Arcane Giant
+Clockwork Giant
+Mountain Giant
+Molten Giant
+Grimestreet Informant
+Grimestreet Smuggler
+Don Han'Cho
+Jade Spirit
+Lotus Agents
+Aya Blackpaw
+Kabal Chemist
+Kabal Courier
+Kazakus
+Innervate
+Moonfire
+Claw
+Earthen Scales
+Enchanted Raven
+Forbidden Ancient
+Jade Idol
+Jungle Giants
+Lesser Jasper Spellstone
+Living Roots
+Mark of the Lotus
+Naturalize
+Raven Idol
+Savagery
+Anodized Robo Cub
+Darnassus Aspirant
+Druid of the Saber
+Druid of the Swarm
+Mark of the Wild
+Mark of Y'Shaarj
+Power of the Wild
+Tortollan Forager
+Wild Growth
+Wrath
+Addled Grizzly
+Celestial Dreamer
+Crypt Lord
+Druid of the Flame
+Elder Longneck
+Feral Rage
+Gnash
+Grove Tender
+Healing Touch
+Jade Blossom
+Mark of Nature
+Mounted Raptor
+Mulch
+Pilfered Power
+Savage Roar
+Astral Communion
+Bite
+Evolving Spores
+Fandral Staghelm
+Jungle Moonkin
+Keeper of the Grove
+Klaxxi Amber-Weaver
+Mire Keeper
+Poison Seeds
+Savage Combatant
+Shellshifter
+Soul of the Forest
+Strongshell Scavenger
+Swipe
+Wildwalker
+Druid of the Claw
+Druid of the Fang
+Fatespinner
+Force of Nature
+Living Mana
+Lunar Visions
+Nourish
+Spreading Plague
+Starfall
+Verdant Longneck
+Virmen Sensei
+Webweave
+Dark Arakkoa
+Dark Wispers
+Jade Behemoth
+Mech-Bear-Cat
+Menagerie Warden
+Moonglade Portal
+Recycle
+Starfire
+Ancient of Lore
+Ancient of War
+Giant Anaconda
+Knight of the Wild
+Malorne
+Malfurion the Pestilent
+Wisps of the Old Gods
+Dinosize
+Ironbark Protector
+Aviana
+Cenarius
+Hadronox
+Tree of Life
+Volcanic Lumberer
+Kun the Forgotten King
+Tyrantus
+Ultimate Infestation
+Alleycat
+Arcane Shot
+Bestial Wrath
+Brave Archer
+Fiery Bat
+Hunter's Mark
+Jeweled Macaw
+On the Hunt
+Play Dead
+Raptor Hatchling
+Smuggler's Crate
+Stampede
+The Marsh Queen
+Timber Wolf
+Tracking
+Webspinner
+Bear Trap
+Call Pet
+Cat Trick
+Crackling Razormaw
+Dart Trap
+Dinomancy
+Explorer's Hat
+Explosive Trap
+Feign Death
+Flare
+Freezing Trap
+Glaivezooka
+Grievous Bite
+Hidden Cache
+Kindly Grandmother
+King's Elekk
+Lock and Load
+Misdirection
+Quick Shot
+Scavenging Hyena
+Snake Trap
+Snipe
+Steamwheedle Sniper
+Toxic Arrow
+Trogg Beastrager
+Venomstrike Trap
+Wandering Monster
+Animal Companion
+Bearshark
+Carrion Grub
+Cloaked Huntress
+Deadly Shot
+Desert Camel
+Dreadscale
+Eaglehorn Bow
+Forlorn Stalker
+Infest
+Kill Command
+Metaltooth Leaper
+Powershot
+Rat Pack
+Shaky Zipgunner
+Stablemaster
+Stitched Tracker
+Terrorscale Stalker
+Unleash the Hounds
+Core Rager
+Dispatch Kodo
+Exploding Bloatbat
+Houndmaster
+Infested Wolf
+Multi-Shot
+Professor Putricide
+Cobra Shot
+Corpse Widow
+Explosive Shot
+King of Beasts
+Knuckles
+Piranha Launcher
+Princess Huhuran
+Ram Wrangler
+Starving Buzzard
+Tol'vir Warden
+Tundra Rhino
+Ball of Spiders
+Deathstalker Rexxar
+Savannah Highmane
+Abominable Bowman
+Acidmaw
+Crushing Walls
+Gahz'rilla
+Gladiator's Longbow
+Swamp King Dred
+Giant Sandworm
+Call of the Wild
+King Krush
+Forbidden Flame
+Freezing Potion
+Arcane Blast
+Arcane Missiles
+Babbling Book
+Breath of Sindragosa
+Ice Lance
+Kabal Lackey
+Mana Wyrm
+Mirror Image
+Open the Waygate
+Arcane Explosion
+Arcanologist
+Cult Sorceror
+Fallen Hero
+Fire Plume Harbinger
+Flame Geyser
+Flamecannon
+Frostbolt
+Ice Walker
+Medivh's Valet
+Primordial Glyph
+Pyros
+Shatter
+Shimmering Tempest
+Snowchugger
+Sorcerer's Apprentice
+Unstable Portal
+Arcane Intellect
+Coldwraith
+Counterspell
+Doomed Apprentice
+Duplicate
+Effigy
+Flamewaker
+Forgotten Torch
+Frost Nova
+Frozen Clone
+Ice Barrier
+Ice Block
+Kirin Tor Mage
+Mana Bind
+Manic Soulcaster
+Mirror Entity
+Polymorph: Boar
+Potion of Polymorph
+Simulacrum
+Soot Spewer
+Spellbender
+Spellslinger
+Twilight Flamecaller
+Vaporize
+Volcanic Potion
+Animated Armor
+Cone of Cold
+Dalaran Aspirant
+Demented Frostcaller
+Echo of Medivh
+Ethereal Arcanist
+Fireball
+Ghastly Conjurer
+Goblin Blastmage
+Molten Reflection
+Polymorph
+Steam Surger
+Water Elemental
+Wee Spellstopper
+Cabalist's Tome
+Cryomancer
+Dragon's Breath
+Ethereal Conjurer
+Flame Lance
+Servant of Yogg-Saron
+Aluneth
+Blizzard
+Coldarra Drake
+Faceless Summoner
+Kabal Crystal Runner
+Meteor
+Archmage Antonidas
+Firelands Portal
+Flame Leviathan
+Flamestrike
+Greater Arcane Missiles
+Inkmaster Solia
+Anomalus
+Glacial Mysteries
+Rhonin
+Sindragosa
+Frost Lich Jaina
+Pyroblast
+Forbidden Healing
+Adaptation
+Avenge
+Blessing of Might
+Blessing of Wisdom
+Competitive Spirit
+Divine Strength
+Eye for an Eye
+Getaway Kodo
+Grimscale Chum
+Hand of Protection
+Humility
+Light's Justice
+Lost in the Jungle
+Meanstreet Marshal
+Noble Sacrifice
+Redemption
+Repentance
+Righteous Defender
+Sacred Trial
+Selfless Hero
+Smuggler's Run
+The Last  Kaleidosaur
+Vilefin Inquisitor
+A Light in the Darkness
+Argent Lance
+Argent Protector
+Dark Conviction
+Desperate Stand
+Divine Favor
+Drygulch Jailor
+Equality
+Grimestreet Outfitter
+Holy Light
+Hydrologist
+Primalfin Champion
+Seal of Light
+Shielded Minibot
+Aldor Peacekeeper
+Coghammer
+Howling Commander
+Muster for Battle
+Nightbane Templar
+Rallying Blade
+Scarlet Purifier
+Seal of Champions
+Small-Time Recruits
+Steward of Darkshire
+Sword of Justice
+Warhorse Trainer
+Wickerflame Burnbristle
+Arrogant Crusader
+Blessing of Kings
+Chillblade Champion
+Consecration
+Hammer of Wrath
+Keeper of Uldaman
+Light's Sorrow
+Lightfused Stegodon
+Murloc Knight
+Silvermoon Portal
+Truesilver Champion
+Blessed Champion
+Bolvar Fordragon
+Bolvar, Fireblood
+Cobalt Guardian
+Dragon Consort
+Grimestreet Enforcer
+Holy Wrath
+Quartermaster
+Solemn Vigil
+Stand Against Darkness
+Tuskarr Jouster
+Avenging Wrath
+Blackguard
+Enter the Coliseum
+Ivory Knight
+Mysterious Challenger
+Spikeridged Steed
+Sunkeeper Tarim
+Eadric the Pure
+Grimestreet Protector
+Guardian of Kings
+Vinecleaver
+Lay on Hands
+Ragnaros, Lightlord
+Tirion Fordring
+Uther of the Ebon Blade
+Anyfin Can Happen
+Circle of Healing
+Forbidden Shaping
+Silence
+Awaken the Makers
+Binding Heal
+Crystalline Oracle
+Flash Heal
+Holy Smite
+Inner Fire
+Light of the Naaru
+Mind Vision
+Northshire Cleric
+Pint-Size Potion
+Potion of Madness
+Power Word: Glory
+Power Word: Shield
+Shadowbomber
+Twilight Whelp
+Confuse
+Convert
+Divine Spirit
+Embrace the Shadow
+Lightwell
+Mane Geode
+Mind Blast
+Museum Curator
+Purify
+Radiant Elemental
+Resurrect
+Shadow Ascendant
+Shadow Visions
+Shadow Word: Pain
+Shadowboxer
+Shrinkmeister
+Spirit Lash
+Wyrmrest Agent
+Acolyte of Agony
+Curious Glimmerroot
+Dark Cultist
+Dragon Soul
+Kabal Talonpriest
+Mirage Caller
+Shadow Word: Death
+Shadowfiend
+Shadowform
+Thoughtsteal
+Unidentified Elixir
+Velen's Chosen
+Auchenai Soulpriest
+Eternal Servitude
+Greater Healing Potion
+Holy Champion
+Hooded Acolyte
+Lightspawn
+Mass Dispel
+Mindgames
+Priest of the Feast
+Shadow Madness
+Shadow Word: Horror
+Shifting Shade
+Spawn of Shadows
+Tortollan Shellraiser
+Darkshire Alchemist
+Devour Mind
+Drakonid Operative
+Excavated Evil
+Holy Nova
+Kabal Songstealer
+Lyra the Sunshard
+Onyx Bishop
+Power Word: Tentacles
+Raza the Chained
+Twlight Darkmender
+Upgraded Repair Bot
+Vol'jin
+Cabal Shadow Priest
+Dragonfire Potion
+Embrace Darkness
+Entomb
+Herald Volazj
+Holy Fire
+Lightbomb
+Shadow Essence
+Temple Enforcer
+Archbishop Benedictus
+Confessor Paletress
+Prophet Velen
+Free from Amber
+Shadowreaper Anduin
+Obsidian Statue
+Mind Control
+Backstab
+Counterfeit Coin
+Preparation
+Shadowstep
+Bladed Cultist
+Buccaneer
+Cold Blood
+Conceal
+Deadly Poison
+Doomerang
+Hallucination
+Journey Below
+Pit Snake
+Sinister Strike
+Swashburglar
+The Caverns Below
+Betrayal
+Biteweed
+Cutpurse
+Defias Ringleader
+Eviscerate
+Gadgetzan Ferryman
+Gang Up
+Goblin Auto-Barber
+Jade Shuriken
+Jade Swarmer
+Leeching Poison
+One-Eyed Cheat
+Patient Assassin
+Razorpetal Lasher
+Razorpetal Volley
+Roll the Bones
+Sap
+Shiv
+Undercity Huckster
+Undercity Valiant
+Beneath the Grounds
+Burgle
+Cogmaster's Wrench
+Deadly Fork
+Edwin VanCleef
+Envenom Weapon
+Fan of Knives
+Headcrack
+Iron Sensei
+Mimic Pod
+Perdition's Blade
+Plague Scientist
+Shadow Rager
+Shadow Strike
+Shadowblade
+Shady Dealer
+Shakru, the Collector
+SI:7 Agent
+Unearthed Raptor
+Anub'ar Ambusher
+Blade Flurry
+Kobold Illusionist
+Lilian Voss
+Master of Disguise
+Obsidian Shard
+Poisoned Blade
+Runeforge Haunter
+Sabotage
+Shadow Sensei
+Sherazin, Corpse Flower
+Southsea Squidface
+Tinker's Sharpsword Oil
+Tomb Pillager
+Xaril, Poisoned Mind
+Assassin's Blade
+Assassinate
+Bone Baron
+Dark Iron Skulker
+Ethereal Peddler
+Lotus Assassin
+Ogre Ninja
+Shado-Pan Cavalry
+Shadowcaster
+Vilespine Slayer
+Kidnapper
+Luckydo Buccaneer
+Spectral Pillager
+Thistle Tea
+Trade Prince Gallywix
+Vanish
+Sprint
+Anub'arak
+Blade of C'Thun
+Valeera the Hollow
+Ancestral Healing
+Totemic Might
+Air Elemental
+Dust Devil
+Earth Shock
+Evolve
+Finders Keepers
+Forked Lightning
+Frost Shock
+Lightning Bolt
+Primal Fusion
+Unite the Murlocs
+Spirit Claws
+Tunnel Trogg
+Ancestral Knowledge
+Ancestral Spirit
+Brrrloc
+Crackle
+Cryostatis
+Devolve
+Eternal Sentinel
+Flametongue Totem
+Ice Fishing
+Jade Claws
+Lava Shock
+Maelstrom Portal
+Primalfin Totem
+Reincarnate
+Rockbiter Weapon
+Stormcrack
+Stormforged Axe
+Totem Golem
+Vitality Totem
+Whirling Zap-o-matic
+Windfury
+Drakkari Defender
+Elemental Destruction
+Far Sight
+Feral Spirit
+Healing Wave
+Hex
+Hot Spring Guardian
+Ice Breaker
+Lava Burst
+Lightning Storm
+Mana Tide Totem
+Powermace
+Spirit Echo
+Tuskarr Totemic
+Unbound Elemental
+Ancestor's Call
+Avalanche
+Call in the Finishers
+Charged Hammer
+Draenei Totemcarver
+Dunemaul Shaman
+Fireguard Destroyer
+Flamewreathed Faceless
+Jade Lightning
+Jinyu Waterspeaker
+Lotus Illusionist
+Master of Evolution
+Rumbling Elemental
+Siltfin Spiritwalker
+Tidal Surge
+Wicked Witchdoctor
+Windspeaker
+Bloodlust
+Doomhammer
+Earth Elemental
+Hallazeal the Ascended
+Thunder Bluff Valiant
+Hammer of Twilight
+Thrall, Deathseer
+Volcano
+Voodoo Hexxer
+White Eyes
+Fire Elemental
+Moorabi
+The Mistcaller
+Thing From Below
+Everyfin is Awesome
+Jade Chieftain
+Lesser Sapphire Spellstone
+Neptulon
+Stone Sentinel
+Al'Akir the Windlord
+Kalimos, Primal Lord
+Snowfury Giant
+Forbidden Ritual
+Sacrificial Pact
+Blood Imp
+Corruption
+Flame Imp
+Lakkari Sacrifice
+Malchezaar's Imp
+Mortal Coil
+Possessed Villager
+Power Overwhelming
+Reliquary Seeker
+Sanguine Reveler
+Soulfire
+Voidwalker
+Bloodbloom
+Clutchmother Zavas
+Corrupting Mist
+Curse of Rafaam
+Dark Peddler
+Darkbomb
+Darkshire Librarian
+Defile
+Demonfire
+Demonfuse
+Drain Soul
+Gnomeferatu
+Mistress of Pain
+Renounce Darkness
+Succubus
+Tiny Knight of Evil
+Wrathguard
+Bloodfury Potion
+Chittering Tunneler
+Darkshire Councilman
+Demonwrath
+Drain Life
+Felguard
+Howlfiend
+Imp Gang Boss
+Sense Demons
+Shadow Bolt
+Silverware Golem
+Spreading Madness
+Treachery
+Unlicensed Apothecary
+Unwilling Sacrifice
+Void Terror
+Blastcrystal Potion
+Crystalweaver
+Dreadsteed
+Fel Cannon
+Fist of Jaraxxus
+Hellfire
+Imp-losion
+Lakkari Felhound
+Pit Lord
+Ravenous Pterrodax
+Seadevil Stinger
+Shadowflame
+Summoning Portal
+Voidcaller
+Bane of Doom
+Blood-Queen Lana'Thel
+Demonheart
+Despicable Dreadlord
+Doomguard
+Feeding Time
+Floating Watcher
+Kara Kazham!
+Tar Lurker
+Usher of Souls
+Anima Golem
+Cruel Dinomancer
+Dark Bargain
+Dread Infernal
+Felfire Potion
+Kabal Trafficker
+Rin, the First Disciple
+Siphon Soul
+Void Crusher
+Wilfred Fizzlebang
+Abyssal Enforcer
+Cho'Gall
+Fearsome Doomguard
+Twisting Nether
+Krul the Unshackled
+Lord Jaraxxus
+Mal'Ganis
+Bloodreaver Guldan
+DOOM!
+Inner Rage
+Animated Berserker
+Blood to Ichor
+Charge
+Cursed Blade
+Fire Plume's Heart
+I Know a Guy
+Iron Hide
+Molten Blade
+N'Zoth's First Mate
+Shield Slam
+Upgrade!
+Warbot
+Whirlwind
+Alexstrasza's Champion
+Armorsmith
+Battle Rage
+Bolster
+Bring It On
+Cleave
+Commanding Shout
+Cornered Sentry
+Cruel Taskmaster
+Dead Man's Hand
+Execute
+Explore Un'Goro
+Fiery War Axe
+Forge of Souls
+Heroic Strike
+Hobart Grapplehammer
+Public Defender
+Rampage
+Revenge
+Slam
+Sleep with the Fishes
+Sparring Partner
+Stolen Goods
+Bash
+Blood Warriors
+Bloodsail Cultist
+Bouncing Blade
+Fierce Monkey
+Frothing Berserker
+Grimestreet Pawnbroker
+King's Defender
+Mountainfire Armor
+Ogre Warmaul
+Orgrimmar Aspirant
+Protect the King
+Ravaging Ghoul
+Shield Block
+Val'kyr Soulclaimer
+Warsong Commander
+Arathi Weaponsmith
+Axe Flinger
+Blood Razor
+Bloodhoof Brave
+Brass Knuckles
+Death's Bite
+Grimy Gadgeteer
+Kor'Kron Elite
+Magnataur Alpha
+Mortal Strike
+Screwjank Clunker
+Alley Armorsmith
+Arcanite Reaper
+Brawl
+Death Revnant
+Direhorn Hatchling
+Fool's Bane
+Ironforge Portal
+Siege Engine
+Sudden Genesis
+Tentacles for Arms
+Gather Your Party
+Iron Juggernaut
+Ornery Direhorn
+Sea Reaver
+Shieldmaiden
+Ancient Shieldbearer
+Crush
+Gorehowl
+Malkorok
+Obsidian Destroyer
+Tar Lord
+Grommash Hellscream
+Rotface
+Scourgelord Garrosh
+King Mosh
+Varian Wrynn
