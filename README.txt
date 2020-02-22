@@ -25,7 +25,8 @@ Make sure that you have Python3 installed and then run
 
 "python [directory_name]\hearthstone.py"
 
-in the command-line.
+in the command-line. You can also use it with basically
+any program that compiles and runs .py programs like IDLE.
 
 
 CONTROLS
@@ -67,3 +68,11 @@ possibly add in sound effects which would be AWESOME
 I would like to include the cost of cards so that you can look
 at that in the Statistics as well. This would require
 editing of the .txt files however.
+
+I would like to implement the total amount of real-world money
+that this opening would have cost. Possibly include that in
+the statistics. The only difficulty is that packs range 
+anywhere from about $1.495 a pack to $1.167 a pack depending
+on how many you buy at once. Perhaps I can either average
+these numbers and go with that, or calculate the cost based
+on total packs opened.
